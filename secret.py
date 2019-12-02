@@ -2,10 +2,10 @@
     "values": [
         {
             "name": "client_id",
-            "value": "AKIA6NH2YJ88R1RMTRVO"
+            "value": "AKIA6NH2YJ88R1RFTRVO"
         },
         {
             "name": "client_secret",
-            "value": "1mZvD8jZGOCVUpInXnChXPIhHQL43sjcfxYQ8/cb"
+            "value": "1mZvD8jZGOCVUpInXnshXPIhHQL43sjcfxYQ8/cb"
         }
     ],
